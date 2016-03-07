@@ -12,5 +12,11 @@
 - [Android tech frontier](https://github.com/bboyfeiyu/android-tech-frontier)
 >一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目 http://www.devtf.cn
 
--[Android 问题交流讨论坛](https://github.com/android-cn/android-discuss)
+- [Android 问题交流讨论坛](https://github.com/android-cn/android-discuss)
 >在Issues中分享和提问的论坛
+
+- [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
+> 该项目通过分析Android系统中的设计模式来提升大家对设计模式的理解，从源码的角度来剖析既增加了对Android系统本身的了解.
+
+- [Android知识库](http://lib.csdn.net/base/15)
+> Android 非常全面细致的资料和讲解.
