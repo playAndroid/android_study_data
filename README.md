@@ -20,3 +20,9 @@
 
 - [Android知识库](http://lib.csdn.net/base/15)
 > Android 非常全面细致的资料和讲解.
+
+- [常用的一些Android代码](https://github.com/jiang111/awesome-android-tips/blob/master/README.md)
+> 这里收集了大家常用的一些Android代码,持续更新中,内容来自作者的平时积累和网络上看到的文章，部分原文地址在最下方。
+
+- [GreenDAO的入门使用](https://github.com/tangqi92/MyGreenDAO)
+> GreenDAO 的入门使用
