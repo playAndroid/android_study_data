@@ -25,9 +25,5 @@
 > 这里收集了大家常用的一些Android代码,持续更新中,内容来自作者的平时积累和网络上看到的文章，部分原文地址在最下方。
 
 - [GreenDAO的入门使用](https://github.com/tangqi92/MyGreenDAO)
-<<<<<<< HEAD
 > GreenDAO 的入门使用
-> 
-=======
-> GreenDAO 的入门使用
->>>>>>> ba30b5947e056dfdfb069c431f8d97f7cb2c8111
+
