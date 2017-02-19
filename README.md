@@ -27,3 +27,32 @@
 - [GreenDAO的入门使用](https://github.com/tangqi92/MyGreenDAO)
 > GreenDAO 的入门使用
 
+- [A fast JSON](https://github.com/alibaba/fastjson)
+> 最快的Json解析库
+
+####第三方服务
+
+- [环信](http://www.easemob.com/product/cs?utm_source=baidu-pp)
+> 即时通讯
+
+- [融云](http://www.rongcloud.cn)
+> 即时通讯云
+
+- [友盟+](http://www.umeng.com/)
+> 推送,统计,分享
+
+- [极光](https://www.jiguang.cn/push)
+> 推送
+
+- [七牛](https://portal.qiniu.com/signin)
+> 云存储
+
+- [Bmob后端云](http://www.bmob.cn/)
+> 云数据库
+
+- [蚂蚁金服](https://open.alipay.com/platform/home.htm)
+> 支付
+
+- [百度地图](http://lbsyun.baidu.com/)
+> 地图
+
