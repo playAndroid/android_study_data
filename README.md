@@ -59,3 +59,33 @@
 - [百度地图](http://lbsyun.baidu.com/)
 > 地图
 
+####个人应用可以用到的资料
+
+#####完整的项目
+
+- [[源码] Android 不要错过的7个完整项目学习](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650822225&idx=1&sn=09177524a9e51bd049b1d042339863ec&chksm=80b782cfb7c00bd9ea3933f812c66770bd00af87c78691ad45650cd017d5d35347af30781e85&mpshare=1&scene=1&srcid=0305FW4YHzJe1ObWEoqeh2wY#rd)
+> 鸿洋大大整理github上完整的项目:音视频播放器、IM通讯、阅读类、商城以及部分公司开源客户端
+
+> [仿网易云音乐客户端](https://github.com/aa112901/remusic)
+
+> [仿全民TV](https://github.com/MichaelHuyp/Bilibili_Wuxianda)
+
+> [简阅客户端](https://github.com/chentao0707/SimplifyReader)
+
+> [豆芽客户端](https://github.com/DreaminginCodeZH/Douya)
+
+> [即时通讯：嗨豹](https://github.com/sealtalk/sealtalk-android)
+
+> [洛克商城](https://github.com/Shuyun123/LKShop)
+
+> [oschina官方客户端](http://git.oschina.net/oschina/android-app)
+
+######可用的第三方API
+
+- [知乎日报 API 分析](https://github.com/izzyleung/ZhihuDailyPurify/wiki/%E7%9F%A5%E4%B9%8E%E6%97%A5%E6%8A%A5-API-%E5%88%86%E6%9E%90)
+
+- [Awsome_API](https://github.com/marktony/Awesome_API)  此开源项目收集了国内外常用的API
+
+- [Postman](https://www.getpostman.com/docs/introduction) HTTP请求 的Chrome插件
+
+- [Material icons](https://material.io/icons/)  使用正确的图标
